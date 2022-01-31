@@ -16,6 +16,7 @@ Name and GitHub username/profile
 * Kimokeo Bowden - [kimokeobowden](https://https://github.com/kimokeobowden)
 * Ankit Bhattarai-[bhattaaa](https://github.com/bhattaaa)
 * Nadr Elhelu - [NadrElhelu](https://github.com/NadrElhelu)
+* Esmi Galvan - [esmigalvan10](https://github.com/esmigalvan10)
 * Ben Grabau - [BenGrabau1](https://github.com/BenGrabau1)
 * Max Harvey - [harveymk](https://github.com/harveymk)
 * Noah Kaplan - [kaplannp](https://github.com/kaplannp)
